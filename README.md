@@ -8,10 +8,3 @@ https://www.kaggle.com/datasets/himelsarder/retail-product-dataset-with-missing-
 
 # Libaires used:
 Pandas, matplotlib.pyplot, seaborn, numpy, calander
-=======
-Looking for important characteristics among E commerce users
-Dataset: https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset
-
-# Libaires used:
-Pandas, matplotlib.pyplot, seaborn, numpy
->>>>>>> 5100d2792895961be5ed233580a7ba1157bcaa63
